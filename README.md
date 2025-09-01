@@ -12,4 +12,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ubuntu"/>
 </p>
